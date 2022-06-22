@@ -9,7 +9,7 @@
 
 ## Contents
 
-* [Discontinuation of Grank](https://github.com/kyan27a/Grank-Discontinued#discontinuation-of-grank)
+* [DISCONTINUED](https://github.com/kyan27a/Grank-Discontinued#discontinuation-of-grank)
 * [What is Grank?](https://github.com/kyan27a/Grank-Discontinued#what-is-grank)
 * [Features](https://github.com/kyan27a/Grank-Discontinued#features)
 * [Supported commands](https://github.com/kyan27a/Grank-Discontinued#supported-commands)
