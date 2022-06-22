@@ -2,13 +2,14 @@
 
 [![Join our Discord](https://www.oathro.com/themes/oathro/img/discord-button.png)](https://discord.gg/X3JMC9FAgy)
 
-[![Stargazers](https://img.shields.io/github/stars/didlly/grank?style=for-the-badge&logo=Python&color=blue)](https://github.com/kyan27a/Grank-Discontinued/stargazers)
+[![Stargazers](https://img.shields.io/github/stars/kyan27a/Grank-Discontinued?style=for-the-badge&logo=Python&color=blue)](https://github.com/kyan27a/Grank-Discontinued/stargazers)
 [![Forks](https://img.shields.io/github/forks/didlly/grank?style=for-the-badge&logo=Python&color=blue)](https://github.com/kyan27a/Grank-Discontinued/network/members)
 [![Issues](https://img.shields.io/github/issues/didlly/grank?style=for-the-badge&logo=Python&color=informational)](https://github.com/kyan27a/Grank-Discontinued/issues)
 [![Pull Requests](https://img.shields.io/github/issues-pr/didlly/grank?style=for-the-badge&logo=Python&color=informational)](https://github.com/kyan27a/Grank-Discontinued/pulls)
 
 ## Contents
 
+* [Discontinuation of Grank](https://github.com/kyan27a/Grank-Discontinued#discontinuation-of-grank)
 * [What is Grank?](https://github.com/kyan27a/Grank-Discontinued#what-is-grank)
 * [Features](https://github.com/kyan27a/Grank-Discontinued#features)
 * [Supported commands](https://github.com/kyan27a/Grank-Discontinued#supported-commands)
